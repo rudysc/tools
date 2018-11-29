@@ -1,0 +1,2 @@
+example:
+   python script_object_wt_dependencies.py "<schemaname>.<viewname>" "dbname=<dbname> port=<port> user=<user> password=<password> host=<host>"
